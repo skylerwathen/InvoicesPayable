@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 04:34:54</sys_created_on>
+        <sys_id>bc155a4e87b20110594afcc7cebb35fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_125718_bob_s_gar_payable_invoice.x_125718_bob_s_gar.administrator</sys_name>
+        <sys_package display_value="Bob's Garage Payable Invoices" source="x_125718_bob_s_gar">4b2f0e4687b20110594afcc7cebb350f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bob's Garage Payable Invoices">4b2f0e4687b20110594afcc7cebb350f</sys_scope>
+        <sys_security_acl display_value="x_125718_bob_s_gar_payable_invoice">7c155a4e87b20110594afcc7cebb35fa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bc155a4e87b20110594afcc7cebb35fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 04:34:54</sys_updated_on>
+        <sys_user_role display_value="x_125718_bob_s_gar.administrator" name="x_125718_bob_s_gar.administrator">a400924a87b20110594afcc7cebb3531</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

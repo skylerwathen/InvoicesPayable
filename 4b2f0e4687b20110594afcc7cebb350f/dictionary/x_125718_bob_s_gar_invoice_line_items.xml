@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Invoice Line Items" max_length="40" name="x_125718_bob_s_gar_invoice_line_items" type="collection">
+        <element label="Description" max_length="250" name="description" type="string"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="Request" max_length="32" name="request" reference="x_125718_bob_s_gar_payable_invoice" type="reference"/>
+        <element label="Total Cost" max_length="250" name="total_cost" type="currency"/>
+        <element label="Unit Price" max_length="250" name="unit_price" type="currency"/>
+        <index name="index">
+            <element name="request"/>
+        </index>
+    </element>
+</database>

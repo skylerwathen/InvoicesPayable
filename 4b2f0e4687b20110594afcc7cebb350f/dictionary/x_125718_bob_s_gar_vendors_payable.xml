@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Vendors Payable" max_length="40" name="x_125718_bob_s_gar_vendors_payable" type="collection">
+        <element display="true" label="Name" max_length="250" name="vendor_name" type="string"/>
+        <element label="State" max_length="40" name="vendor_state" type="string"/>
+        <element label="Street Address" max_length="250" name="vendor_street_address" type="string"/>
+        <element label="Zip Code" max_length="10" name="vendor_zip_code" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Payable Invoice" max_length="40" name="x_125718_bob_s_gar_payable_invoice" type="collection">
+        <element label="Company Address" max_length="40" name="company_address" type="string"/>
+        <element label="Invoice Number" max_length="250" name="invoice_number" type="string"/>
+        <element label="P.O.#" max_length="250" name="po_number" type="string"/>
+        <element label="Terms and Conditions" max_length="10000" name="terms_condistions" type="string"/>
+        <element label="Vendor" max_length="32" name="vendor" reference="x_125718_bob_s_gar_vendors_payable" type="reference"/>
+    </element>
+</database>

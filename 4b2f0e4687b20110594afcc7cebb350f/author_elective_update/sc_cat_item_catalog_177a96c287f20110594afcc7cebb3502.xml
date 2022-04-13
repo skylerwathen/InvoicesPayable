@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Invoices Payable">235a92c287f20110594afcc7cebb3548</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 04:58:33</sys_created_on>
+        <sys_id>177a96c287f20110594afcc7cebb3502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Invoices Payable</sys_name>
+        <sys_package display_value="Bob's Garage Payable Invoices" source="x_125718_bob_s_gar">4b2f0e4687b20110594afcc7cebb350f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bob's Garage Payable Invoices">4b2f0e4687b20110594afcc7cebb350f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_177a96c287f20110594afcc7cebb3502</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 04:58:33</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bob's Garage Payable Invoices">4b2f0e4687b20110594afcc7cebb350f</application>
+        <file_path/>
+        <instance_id>ca1124e6db1d8d109a4dcac50596191a</instance_id>
+        <instance_name>dev122809</instance_name>
+        <name>sc_cat_item_catalog_177a96c287f20110594afcc7cebb3502</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Invoices Payable">235a92c287f20110594afcc7cebb3548</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-13 04:58:33</sys_created_on><sys_id>177a96c287f20110594afcc7cebb3502</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Invoices Payable</sys_name><sys_package display_value="Bob's Garage Payable Invoices" source="x_125718_bob_s_gar">4b2f0e4687b20110594afcc7cebb350f</sys_package><sys_policy/><sys_scope display_value="Bob's Garage Payable Invoices">4b2f0e4687b20110594afcc7cebb350f</sys_scope><sys_update_name>sc_cat_item_catalog_177a96c287f20110594afcc7cebb3502</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-13 04:58:33</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-625760073</payload_hash>
+        <record_name>Service Catalog.Invoices Payable</record_name>
+        <reverted_from/>
+        <source>0b2f0e4687b20110594afcc7cebb3511</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 04:58:33</sys_created_on>
+        <sys_id>db7a96c287f20110594afcc7cebb3505</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18021499c150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 04:58:33</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>537a96c2c7f201101f12b0a2065dda05</update_guid>
+        <update_guid_history>537a96c2c7f201101f12b0a2065dda05:-625760073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Invoices Payable">5caa1ac287f20110594afcc7cebb3578</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 04:59:11</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0779f6f587494c6c9138a82374e71610</sys_id>
+        <sys_metadata>177a96c287f20110594afcc7cebb3502</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Invoices Payable</sys_name>
+        <sys_package display_value="Bob's Garage Payable Invoices" source="x_125718_bob_s_gar">4b2f0e4687b20110594afcc7cebb350f</sys_package>
+        <sys_parent display_value="">235a92c287f20110594afcc7cebb3548</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Bob's Garage Payable Invoices">4b2f0e4687b20110594afcc7cebb350f</sys_scope>
+        <sys_scope_delete display_value="">029f11fc321b48d080545ac97cb69090</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_177a96c287f20110594afcc7cebb3502</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_177a96c287f20110594afcc7cebb3502">db7a96c287f20110594afcc7cebb3505</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 04:59:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
